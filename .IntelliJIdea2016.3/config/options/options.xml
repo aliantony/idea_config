@@ -1,18 +1,39 @@
 <application>
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
-    <property name="android-component-compatibility-check" value="1518155060279" />
-    <property name="file.chooser.recent.files" value="C:/Program Files/Java/jdk1.8.0_112&#10;G:/java设计模式/helloworld" />
+    <property name="android-component-compatibility-check" value="1519611573323" />
+    <property name="file.chooser.recent.files" value="G:/java设计模式/java-design-patterns&#10;C:/Program Files/Java/jdk1.8.0_112&#10;G:/java设计模式/helloworld" />
     <property name="last.imported.location" value="G:/java设计模式/helloworld" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="1" />
-    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="lastTip" value="10" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="Default.savedEditorTheme" value="_@user_Default" />
-    <property name="selected.color.option.type" value="CARET_ROW_COLOR" />
-    <property name="ColorChooser.RecentColors" value="255-42-20-255,,,198-105-108-255,,,200-81-120-255,,,255-253-195-255,,,200-210-120-255,,,230-170-1-255,,,83-11-3-255,,,255-245-238-255,,,224-238-224-255,,,205-96-144-255,,,255-130-171-255,,,224-255-255-255,,,20-200-15-255,,,207-207-207-255" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="selected.color.option.type" value="DEFAULT_LINE_COMMENT" />
+    <property name="ColorChooser.RecentColors" value="255-42-20-255,,,198-105-108-255,,,200-81-120-255,,,255-253-195-255,,,200-210-120-255,,,230-170-1-255,,,83-11-3-255,,,255-245-238-255,,,224-238-224-255,,,205-96-144-255,,,255-130-171-255,,,224-255-255-255,,,20-200-15-255,,,207-207-207-255,,,207-95-114-255" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
     <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.62147653" />
+    <property name="PLUGIN_FILTER" value="mark" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.22421524" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.23404256" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="typescript.use.directory.import.node" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15826944" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.10958904" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.13020833" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.14981273" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.17621145" />
+    <property name="JpaViewFrameworkProvider:Project[1]" value="0.13020833" />
+    <property name="KEYMAP" value="basic&#10;dupli" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
   </component>
 </application>

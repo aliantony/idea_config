@@ -3,7 +3,7 @@
     <property name="created">2018-02-09T13:55:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2018-02-09T14:14:39</property>
+    <property name="modified">2018-02-26T15:15:17</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -17,7 +17,7 @@
   </console-font>
   <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="cfcfcf" />
+    <option name="CARET_ROW_COLOR" value="cf5f72" />
   </colors>
   <attributes>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
