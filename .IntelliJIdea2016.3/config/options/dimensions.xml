@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="740" y="115" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="878" y="103" />
     <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="598" y="71" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="590" y="363" />
@@ -13,11 +13,13 @@
     <location key="spring file set editor.0.0.1920.1080" x="663" y="186" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="167" />
     <location key="new project wizard.0.0.1920.1080" x="505" y="109" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="714" y="205" />
     <size key="SettingsEditor.0.0.1920.1080" width="1110" height="765" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="709" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080" width="919" height="261" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="919" height="261" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="919" height="261" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="919" height="261" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="440" height="481" />
   </component>
 </application>

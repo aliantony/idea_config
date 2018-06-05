@@ -2,18 +2,42 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:\MyGithub\Java8InAction" />
+        <option value="D:\MyGithub\guava-learn" />
         <option value="G:\java设计模式\java-design-patterns" />
         <option value="G:\java设计模式\helloworld" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="G:\java设计模式\java-design-patterns" />
+        <option value="D:\MyGithub\Java8InAction" />
       </list>
     </option>
-    <option name="lastPath" value="G:\java设计模式\java-design-patterns" />
+    <option name="lastPath" value="D:\MyGithub\Java8InAction" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:\MyGithub\Java8InAction">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.29" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="F:\Program Files\IntelliJ IDEA 2016.3.1\bin" />
+              <option name="projectOpenTimestamp" value="1528096287634" />
+              <option name="buildTimestamp" value="1481287165774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\MyGithub\guava-learn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.9166.29" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="F:\Program Files\IntelliJ IDEA 2016.3.1\bin" />
+              <option name="projectOpenTimestamp" value="1528079895450" />
+              <option name="buildTimestamp" value="1481287196943" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="G:\java设计模式\helloworld">
           <value>
             <RecentProjectMetaInfo>
@@ -31,12 +55,13 @@
               <option name="build" value="IU-163.9166.29" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="F:\Program Files\IntelliJ IDEA 2016.3.1\bin" />
-              <option name="projectOpenTimestamp" value="1519611613128" />
-              <option name="buildTimestamp" value="1481287162088" />
+              <option name="projectOpenTimestamp" value="1527390815278" />
+              <option name="buildTimestamp" value="1481287157541" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="D:/MyGithub" />
   </component>
 </application>
